@@ -1,0 +1,39 @@
+{
+    "matrica":[
+    {
+        "id":1,
+        "fajta":"csillámos",
+        "tulajdonos":"Julcsi",
+        "szine":"piros",
+        "darabszam": 32
+    },
+    {
+        "id":2,
+        "fajta":"domború",
+        "tulajdonos":"Jancsi",
+        "szine":"kék",
+        "darabszam": 11
+    },
+    {
+        "id":3,
+        "fajta":"fényes",
+        "tulajdonos":"Lilla",
+        "szine":"szivárvány színű",
+        "darabszam": 4
+    },
+    {
+        "id":4,
+        "fajta":"sima",
+        "tulajdonos":"Bogi",
+        "szine":"pink",
+        "darabszam": 59
+    },
+    {
+        "id":5,
+        "fajta":"vidám",
+        "tulajdonos":"Peti",
+        "szine":"zöld",
+        "darabszam": 29
+    }
+    ]
+}
